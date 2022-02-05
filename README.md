@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bret Seelall
-- 🌱 I’m currently a student at the New Jersey Institute of Technology studying Computer Science B.S.
+- 🌱 I’m currently a student at the New Jersey Institute of Technology and I am pursuing my Bachelor's Degree in Computer Science.
 - 📫 Best way to reach me is through my email which is bks5@njit.edu
 
 <!---
